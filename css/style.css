@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(247, 241, 236);
+}
+div {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+div.r1 {
+    background-color: black;
+}
+div.r2 {
+    background-color: rgb(60, 60, 60);
+}
+div.r3 {
+    background-color: rgb(120, 120, 120);
+}
+div.r4 {
+    background-color: rgb(180, 180, 180);
+}
