@@ -5,16 +5,17 @@ div {
     width: 100px;
     height: 100px;
     margin: auto;
-}
-div.r1 {
     background-color: black;
 }
+div.r1 {
+    opacity: 0.8;
+}
 div.r2 {
-    background-color: rgb(60, 60, 60);
+    opacity: 0.6;
 }
 div.r3 {
-    background-color: rgb(120, 120, 120);
+    opacity: 0.4;
 }
 div.r4 {
-    background-color: rgb(180, 180, 180);
+    opacity: 0.2;
 }
